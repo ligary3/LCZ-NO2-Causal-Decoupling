@@ -119,7 +119,9 @@ Used to characterize anthropogenic intensity and geographic constraints.
 │
 │
 ├─ results/
-│  ├─ BTH_NO2_Prediction_100m_20240718_Ultimate_RBF_v7.tif
+│  ├─NO2.png
+│  ├─lcz_boxplot.png
+│  ├─shap_summary.png
 │  └─ causal_combined.png
 │
 └─ images/
