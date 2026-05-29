@@ -126,6 +126,7 @@ Used to characterize anthropogenic intensity and geographic constraints.
 │
 └─ images/
    └─ framework.png
+```
 
 ## Step
 
